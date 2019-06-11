@@ -40,14 +40,14 @@ return [
         ],
     ],
 	'twitter' => [
-		'client_id' => 'wHw4amoIX2x6zAe9j4Y1nyZR8',
-		'client_secret' => 'peMWrYhdSs8USXl54SjiNVjaue0ojTMSaI7EFJARhU6ZSzcdoM',
-		'redirect' => 'http://social.watch/twitter/callback'
+		'client_id' => 'xI09hsgQc6iqfdM3NYU1PKLEF',
+		'client_secret' => 'qXjGUI2DAPWb5pWSfb6aLqPZu9dx3YzM2EROh26qU6ILCYSCda',
+		'redirect' => 'https://twitter.nogetdigitalt.dk/twitter/callback'
 	],
 	'facebook' => [
 		'client_id' => '2766310426743947',
-		'client_secret' => '0e42eb5a004e642378a5cc4254869969',
-		'redirect' => 'https://social.watch/facebook/callback'
+		'client_secret' => '0a0c78c2071d97d0e7df73eef8c4badd',
+		'redirect' => 'https://twitter.nogetdigitalt.dk/facebook/callback'
 	]
 
 ];
