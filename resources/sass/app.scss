@@ -1,0 +1,34 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import "~noty/src/noty.scss";
+@import "~noty/src/themes/mint.scss";
+
+
+@import 'components/page-header.scss';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+#trendslist
+{
+	li
+	{
+		display:inline-block;
+		margin-right:20px;
+		padding-right:20px;
+		border-right:1px solid #666;
+		&:last-child
+		{
+			border:0;
+		}
+	}
+}
